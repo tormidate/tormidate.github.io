@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tormidate.github.io/sitemap.html.gz
+Sitemap: https://tormidate.github.io/app/sitemap.html.gz
+Sitemap: https://tormidate.github.io/assets/sitemap.html.gz
+Sitemap: https://tormidate.github.io/css/sitemap.html.gz
+Sitemap: https://tormidate.github.io/data/sitemap.html.gz
+Sitemap: https://tormidate.github.io/includes/sitemap.html.gz
+Sitemap: https://tormidate.github.io/item/sitemap.html.gz
+Sitemap: https://tormidate.github.io/src/sitemap.html.gz
